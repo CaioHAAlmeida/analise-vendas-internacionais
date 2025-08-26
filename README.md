@@ -15,7 +15,6 @@ O objetivo principal foi **transformar a base bruta** em **insights estratégico
 
 ```
 analise-vendas-internacionais/
-├── data/           → Dataset de exemplo para teste
 ├── scripts/        → Códigos Python para análise e tratamento
 ├── dashboard/      → Prints e arquivos do Power BI
 ├── docs/           → Relatórios e documentação técnica
@@ -66,22 +65,10 @@ analise-vendas-internacionais/
 ---
 
 ## 📂 Dataset
+https://1drv.ms/x/c/d972abcb724b4029/EYbDJmPAssVFm5eJ_TRWgjAB_wOhh7aidpf5tNCkn0NgMg?e=Vt4NoR
+https://1drv.ms/x/c/d972abcb724b4029/EfDnWlJ1GAFCvZm82yjL5_oB1ehHaAjCEyxZu1piys1ctg?e=NlTvXu
 
-Para manter o repositório leve, disponibilizei **uma amostra do dataset** na pasta `data/`.
 
-O **dataset completo**, com **541.909 registros**, está hospedado no OneDrive:
-
-🔗 [Clique aqui para acessar o dataset completo](https://1drv.ms/x/c/d972abcb724b4029/EfDnWJ1GAFCvZm82yjL5_oBE-aNjZ3h2TQnyYrY59OJtA?e=yG2064)
-
----
-
-## 🖼️ Dashboard Interativo
-
-![Dashboard Preview](dashboard/dashboard_preview.png)
-
-> **[Acesse o dashboard completo aqui](link-do-power-bi-service)** *(se publicado no Power BI Service)*
-
----
 
 ## 🧠 Competências Demonstradas
 - **Python** → tratamento, limpeza e análise de dados.
@@ -93,4 +80,4 @@ O **dataset completo**, com **541.909 registros**, está hospedado no OneDrive:
 
 ## 👨‍💻 Autor
 **Caio Henrique**  
-📌 [LinkedIn](https://linkedin.com/in/seu-perfil) • [Portfólio no GitHub](https://github.com/seu-usuario)
+📌 [LinkedIn]((https://www.linkedin.com/in/caio-henrique-55b936315/)) • [Portfólio no GitHub]((https://github.com/CaioHAAlmeida))
